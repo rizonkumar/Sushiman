@@ -1,7 +1,6 @@
 # Sushiman
 
-![Sushiman Logo](https://github.com/rizonkumar/Sushiman/blob/main/images/sushiman-logo.png)
-
+## Website Link : https://sushiman-rizonkumar.netlify.app/
 Sushiman is a lightweight and efficient web application. This repository contains the source code and related files for the Sushiman application.
 
 ## Features
